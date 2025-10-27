@@ -1,4 +1,4 @@
-"# Playwright - qa-junior-playwright-api" 
+# Playwright - qa-junior-playwright-api
 Automação de testes API utilizando Playwright com TypeScript
 
 ## Requisitos do sitema
